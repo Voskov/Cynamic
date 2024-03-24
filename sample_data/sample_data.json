@@ -1,0 +1,4502 @@
+[
+  {
+    "srcip": "172.17.201.3",
+    "dstip": "10.42.16.116",
+    "srcport": 8092,
+    "dstport": 37771,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.51",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 62062,
+    "protocol": 17,
+    "numbytes": 190,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.10.96",
+    "dstip": "172.17.27.18",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.25.4",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 34911,
+    "protocol": 17,
+    "numbytes": 376,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "10.210.1.5",
+    "srcport": 61117,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 180,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.10.96",
+    "dstip": "172.17.11.100",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.1",
+    "dstip": "169.254.100.2",
+    "srcport": 49199,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.1",
+    "dstip": "169.254.100.2",
+    "srcport": 49199,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.28.18",
+    "dstip": "10.42.16.83",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 84,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "169.254.100.1",
+    "srcport": 49246,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.14.100",
+    "dstip": "168.127.10.96",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.20.100",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 84,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "10.210.1.52",
+    "srcport": 62969,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 185,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.12.13",
+    "srcport": 47579,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1072,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.16.2.102",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 84,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.16.2.83",
+    "srcport": 10548,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 469,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.16.100",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 32151,
+    "protocol": 17,
+    "numbytes": 309,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.12.85",
+    "dstip": "10.210.2.46",
+    "srcport": 2049,
+    "dstport": 741,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.1",
+    "dstip": "169.254.100.2",
+    "srcport": 49199,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.24.4",
+    "dstip": "168.127.8.96",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.20.20",
+    "srcport": 58764,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1212,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.8.96",
+    "dstip": "172.17.24.100",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.4",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 18919,
+    "protocol": 17,
+    "numbytes": 455,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.20.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9118,
+    "dstport": 39604,
+    "protocol": 6,
+    "numbytes": 663,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.14.42",
+    "srcport": 40938,
+    "dstport": 6379,
+    "protocol": 6,
+    "numbytes": 108,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "10.210.1.3",
+    "srcport": 32276,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 195,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.201.1",
+    "dstip": "10.42.16.116",
+    "srcport": 9118,
+    "dstport": 61057,
+    "protocol": 6,
+    "numbytes": 666,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.15",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 19311,
+    "protocol": 17,
+    "numbytes": 250,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.9",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 33752,
+    "protocol": 17,
+    "numbytes": 372,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.16.200",
+    "srcport": 26145,
+    "dstport": 9115,
+    "protocol": 6,
+    "numbytes": 371,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.16.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9118,
+    "dstport": 64925,
+    "protocol": 6,
+    "numbytes": 663,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.11",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 10666,
+    "protocol": 17,
+    "numbytes": 335,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "10.210.1.11",
+    "srcport": 19134,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 177,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.5",
+    "dstip": "10.210.2.46",
+    "srcport": 60765,
+    "dstport": 514,
+    "protocol": 17,
+    "numbytes": 142,
+    "numpackets": 1
+  },
+  {
+    "srcip": "146.148.27.244",
+    "dstip": "172.16.2.88",
+    "srcport": 5222,
+    "dstport": 39914,
+    "protocol": 6,
+    "numbytes": 222,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.20.20",
+    "srcport": 58764,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1144,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.10.98",
+    "dstip": "172.17.10.18",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "169.254.100.1",
+    "srcport": 49246,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "10.210.1.11",
+    "srcport": 55386,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 92,
+    "numpackets": 1
+  },
+  {
+    "srcip": "15.200.9.186",
+    "dstip": "172.16.2.94",
+    "srcport": 443,
+    "dstport": 48016,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.5",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 13639,
+    "protocol": 17,
+    "numbytes": 345,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.43.20.66",
+    "srcport": 47016,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 1281,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.3",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 2617,
+    "protocol": 17,
+    "numbytes": 376,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.92",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 35030,
+    "protocol": 17,
+    "numbytes": 77,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.8.98",
+    "dstip": "172.17.10.100",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.10.96",
+    "dstip": "172.17.26.4",
+    "srcport": 55272,
+    "dstport": 22,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.201.1",
+    "srcport": 61057,
+    "dstport": 9118,
+    "protocol": 6,
+    "numbytes": 368,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.1",
+    "dstip": "10.42.12.14",
+    "srcport": 46307,
+    "dstport": 6009,
+    "protocol": 17,
+    "numbytes": 177,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.20.20",
+    "srcport": 58764,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1368,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.27.200",
+    "dstip": "10.210.2.102",
+    "srcport": 50155,
+    "dstport": 53,
+    "protocol": 17,
+    "numbytes": 74,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.102",
+    "dstip": "172.17.27.200",
+    "srcport": 53,
+    "dstport": 34596,
+    "protocol": 17,
+    "numbytes": 145,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.12.13",
+    "srcport": 47579,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1304,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.20.200",
+    "srcport": 39604,
+    "dstport": 9118,
+    "protocol": 6,
+    "numbytes": 369,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.102",
+    "dstip": "172.17.26.200",
+    "srcport": 53,
+    "dstport": 52157,
+    "protocol": 17,
+    "numbytes": 134,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.12.13",
+    "srcport": 47579,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1428,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.4",
+    "dstip": "10.42.12.13",
+    "srcport": 52482,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1324,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "169.254.100.1",
+    "srcport": 49246,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.19.200",
+    "srcport": 60143,
+    "dstport": 9118,
+    "protocol": 6,
+    "numbytes": 371,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.103",
+    "dstip": "172.17.201.1",
+    "srcport": 53,
+    "dstport": 46642,
+    "protocol": 17,
+    "numbytes": 132,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.1",
+    "dstip": "169.254.100.2",
+    "srcport": 49199,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.8.98",
+    "dstip": "172.17.9.18",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "146.148.27.244",
+    "dstip": "172.16.2.2",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 84,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.51",
+    "dstip": "15.200.9.186",
+    "srcport": 56713,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.51",
+    "dstip": "15.200.9.186",
+    "srcport": 56713,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.5",
+    "dstip": "10.42.12.13",
+    "srcport": 48325,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1412,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.28.200",
+    "srcport": 59897,
+    "dstport": 9118,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.12.13",
+    "srcport": 47579,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1248,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.68",
+    "dstip": "3.32.51.114",
+    "srcport": 56598,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 813,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.8.98",
+    "dstip": "172.17.16.100",
+    "srcport": 55174,
+    "dstport": 22,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.25.6",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 28034,
+    "protocol": 17,
+    "numbytes": 129,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.14.42",
+    "srcport": 41132,
+    "dstport": 6379,
+    "protocol": 6,
+    "numbytes": 111,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.12.13",
+    "srcport": 47579,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1080,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.25.4",
+    "srcport": 62083,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 180,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.19.200",
+    "dstip": "10.42.16.116",
+    "srcport": 8090,
+    "dstport": 55589,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.201.1",
+    "srcport": 38893,
+    "dstport": 9115,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.83",
+    "dstip": "100.70.241.12",
+    "srcport": 54615,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 89,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.78",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 61751,
+    "protocol": 6,
+    "numbytes": 430,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.157.212",
+    "srcport": 445,
+    "dstport": 60450,
+    "protocol": 6,
+    "numbytes": 419,
+    "numpackets": 2
+  },
+  {
+    "srcip": "192.168.82.99",
+    "dstip": "100.70.240.11",
+    "srcport": 51791,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 81,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "8.8.8.8",
+    "srcport": 52222,
+    "dstport": 53,
+    "protocol": 17,
+    "numbytes": 104,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.241",
+    "dstip": "75.2.105.218",
+    "srcport": 45778,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 141,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.157",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 61797,
+    "protocol": 6,
+    "numbytes": 203,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.120",
+    "dstip": "100.70.240.11",
+    "srcport": 44024,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 81,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.146",
+    "dstip": "172.24.144.146",
+    "srcport": 8305,
+    "dstport": 33905,
+    "protocol": 6,
+    "numbytes": 74,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.157",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 62562,
+    "protocol": 6,
+    "numbytes": 130,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.77",
+    "dstip": "100.70.240.11",
+    "srcport": 57421,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 79,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.242",
+    "dstip": "172.25.93.43",
+    "srcport": 43326,
+    "dstport": 50051,
+    "protocol": 6,
+    "numbytes": 294,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.254.2",
+    "srcport": 53,
+    "dstport": 7051,
+    "protocol": 17,
+    "numbytes": 326,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.81",
+    "dstip": "172.24.191.105",
+    "srcport": 51461,
+    "dstport": 63214,
+    "protocol": 6,
+    "numbytes": 223,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.244",
+    "dstip": "172.25.93.43",
+    "srcport": 53468,
+    "dstport": 50051,
+    "protocol": 6,
+    "numbytes": 1407,
+    "numpackets": 13
+  },
+  {
+    "srcip": "172.24.146.242",
+    "dstip": "99.83.155.87",
+    "srcport": 57394,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 1107,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.77",
+    "dstip": "100.70.240.10",
+    "srcport": 48036,
+    "dstport": 2445,
+    "protocol": 6,
+    "numbytes": 161,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.33",
+    "dstip": "20.189.173.11",
+    "srcport": 58618,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 428,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": 49195,
+    "dstport": 17778,
+    "protocol": 6,
+    "numbytes": 156,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.173",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 64263,
+    "protocol": 6,
+    "numbytes": 242,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.157",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 64630,
+    "protocol": 6,
+    "numbytes": 218,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 82,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.191.105",
+    "srcport": 389,
+    "dstport": 65044,
+    "protocol": 6,
+    "numbytes": 497,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.191.105",
+    "srcport": 445,
+    "dstport": 50660,
+    "protocol": 6,
+    "numbytes": 1133,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.127",
+    "dstip": "172.24.191.105",
+    "srcport": 49165,
+    "dstport": 64984,
+    "protocol": 6,
+    "numbytes": 487,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.208",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 65396,
+    "protocol": 6,
+    "numbytes": 256,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.157.25",
+    "srcport": 53,
+    "dstport": 54561,
+    "protocol": 17,
+    "numbytes": 98,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.208",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 65450,
+    "protocol": 6,
+    "numbytes": 68,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.191.102",
+    "srcport": 51439,
+    "dstport": 37892,
+    "protocol": 6,
+    "numbytes": 20045,
+    "numpackets": 31
+  },
+  {
+    "srcip": "192.168.82.125",
+    "dstip": "100.70.240.11",
+    "srcport": 36501,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 76,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.191.105",
+    "srcport": 49671,
+    "dstport": 50470,
+    "protocol": 6,
+    "numbytes": 242,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": 49155,
+    "dstport": 50495,
+    "protocol": 6,
+    "numbytes": 349,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.157.24",
+    "srcport": 445,
+    "dstport": 51081,
+    "protocol": 6,
+    "numbytes": 1324,
+    "numpackets": 3
+  },
+  {
+    "srcip": "172.24.146.23",
+    "dstip": "172.24.150.31",
+    "srcport": 445,
+    "dstport": 53484,
+    "protocol": 6,
+    "numbytes": 146,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.176",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 51009,
+    "protocol": 6,
+    "numbytes": 152,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.33",
+    "dstip": "172.24.154.30",
+    "srcport": 59405,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 129,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.241",
+    "dstip": "3.128.14.47",
+    "srcport": 50654,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 88,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.128",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 51392,
+    "protocol": 6,
+    "numbytes": 314,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.124",
+    "dstip": "100.70.240.11",
+    "srcport": 35039,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 89,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.124",
+    "dstip": "100.70.240.11",
+    "srcport": 35047,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 79,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.157.180",
+    "srcport": 445,
+    "dstport": 54770,
+    "protocol": 6,
+    "numbytes": 2012,
+    "numpackets": 7
+  },
+  {
+    "srcip": "172.24.144.253",
+    "dstip": "132.163.96.2",
+    "srcport": 123,
+    "dstport": 123,
+    "protocol": 17,
+    "numbytes": 98,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.241",
+    "dstip": "75.2.105.218",
+    "srcport": 32884,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 216,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.77",
+    "dstip": "100.70.240.10",
+    "srcport": 41298,
+    "dstport": 2445,
+    "protocol": 6,
+    "numbytes": 161,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.23",
+    "dstip": "172.24.157.10",
+    "srcport": 135,
+    "dstport": 62439,
+    "protocol": 6,
+    "numbytes": 234,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.81",
+    "dstip": "172.24.191.105",
+    "srcport": 56072,
+    "dstport": 58739,
+    "protocol": 6,
+    "numbytes": 71,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.191.105",
+    "srcport": 49671,
+    "dstport": 51575,
+    "protocol": 6,
+    "numbytes": 283,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.124",
+    "dstip": "100.70.240.11",
+    "srcport": 35059,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 79,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.146",
+    "dstip": "172.24.144.17",
+    "srcport": 59537,
+    "dstport": 8305,
+    "protocol": 6,
+    "numbytes": 92,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.157",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 52023,
+    "protocol": 6,
+    "numbytes": 68,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.145",
+    "dstip": "44.210.220.20",
+    "srcport": 56444,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 653,
+    "numpackets": 7
+  },
+  {
+    "srcip": "172.24.146.84",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 52934,
+    "protocol": 6,
+    "numbytes": 247,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.191.105",
+    "srcport": 49671,
+    "dstport": 53222,
+    "protocol": 6,
+    "numbytes": 249,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.157.225",
+    "srcport": 53,
+    "dstport": 58242,
+    "protocol": 17,
+    "numbytes": 252,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.176",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 53413,
+    "protocol": 6,
+    "numbytes": 200,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.49",
+    "dstip": "100.70.240.108",
+    "srcport": 55763,
+    "dstport": 123,
+    "protocol": 17,
+    "numbytes": 98,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.63",
+    "dstip": "100.70.240.11",
+    "srcport": 52290,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 160,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.173",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 53862,
+    "protocol": 6,
+    "numbytes": 234,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "8.8.8.8",
+    "srcport": 58625,
+    "dstport": 53,
+    "protocol": 17,
+    "numbytes": 97,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.59",
+    "dstip": "100.70.240.11",
+    "srcport": 53748,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 80,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.87",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 54133,
+    "protocol": 6,
+    "numbytes": 430,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.241",
+    "dstip": "75.2.105.218",
+    "srcport": 39528,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 185,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.157.254",
+    "srcport": 53,
+    "dstport": 62575,
+    "protocol": 17,
+    "numbytes": 351,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.157.251",
+    "srcport": 53,
+    "dstport": 49527,
+    "protocol": 17,
+    "numbytes": 223,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.206",
+    "dstip": "172.24.191.105",
+    "srcport": 49687,
+    "dstport": 54699,
+    "protocol": 6,
+    "numbytes": 258,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.206",
+    "dstip": "172.24.191.119",
+    "srcport": 53831,
+    "dstport": 8014,
+    "protocol": 6,
+    "numbytes": 660,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.127",
+    "dstip": "172.24.157.20",
+    "srcport": 49248,
+    "dstport": 53103,
+    "protocol": 6,
+    "numbytes": 103,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.156",
+    "dstip": "20.40.229.24",
+    "srcport": 51388,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 88,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.125",
+    "dstip": "100.70.240.11",
+    "srcport": 36549,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 77,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.96",
+    "dstip": "100.70.240.11",
+    "srcport": 53010,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 89,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.191.185",
+    "srcport": 49666,
+    "dstport": 58718,
+    "protocol": 6,
+    "numbytes": 2344,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.244",
+    "dstip": "99.83.155.87",
+    "srcport": 48008,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 468,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.25.93.43",
+    "srcport": 445,
+    "dstport": 53190,
+    "protocol": 6,
+    "numbytes": 224,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.146",
+    "dstip": "146.112.255.69",
+    "srcport": 37670,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 349,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.33",
+    "dstip": "172.24.157.222",
+    "srcport": 135,
+    "dstport": 60060,
+    "protocol": 6,
+    "numbytes": 178,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.25.4",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 62083,
+    "protocol": 17,
+    "numbytes": 366,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.32.21.46",
+    "srcport": 35258,
+    "dstport": 3306,
+    "protocol": 6,
+    "numbytes": 61,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.24.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9118,
+    "dstport": 26818,
+    "protocol": 6,
+    "numbytes": 662,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.32.21.46",
+    "srcport": 35258,
+    "dstport": 3306,
+    "protocol": 6,
+    "numbytes": 192,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.32.21.46",
+    "srcport": 35258,
+    "dstport": 3306,
+    "protocol": 6,
+    "numbytes": 192,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.1",
+    "dstip": "169.254.100.2",
+    "srcport": 49199,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.5",
+    "dstip": "10.210.2.46",
+    "srcport": 60765,
+    "dstport": 514,
+    "protocol": 17,
+    "numbytes": 142,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.32.21.46",
+    "dstip": "10.210.2.46",
+    "srcport": 3306,
+    "dstport": 42670,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.62",
+    "dstip": "146.148.27.244",
+    "srcport": 43594,
+    "dstport": 5222,
+    "protocol": 6,
+    "numbytes": 756,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.5",
+    "dstip": "10.210.2.46",
+    "srcport": 60765,
+    "dstport": 514,
+    "protocol": 17,
+    "numbytes": 142,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.32.21.46",
+    "dstip": "10.210.2.46",
+    "srcport": 3306,
+    "dstport": 42670,
+    "protocol": 6,
+    "numbytes": 1225,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.32.21.46",
+    "dstip": "10.210.2.46",
+    "srcport": 3306,
+    "dstport": 42670,
+    "protocol": 6,
+    "numbytes": 463,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.87",
+    "dstip": "3.32.51.114",
+    "srcport": 36846,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 351,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.26.4",
+    "srcport": 41264,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 180,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.14.42",
+    "dstip": "10.210.2.46",
+    "srcport": 6379,
+    "dstport": 40910,
+    "protocol": 6,
+    "numbytes": 120,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.8.96",
+    "dstip": "172.17.25.18",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.1",
+    "dstip": "169.254.100.2",
+    "srcport": 49199,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.17.27.4",
+    "srcport": 4662,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 182,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "10.210.1.2",
+    "srcport": 7218,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 159,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.27.4",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 4662,
+    "protocol": 17,
+    "numbytes": 376,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.8.98",
+    "dstip": "172.17.19.6",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.27.12",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 35898,
+    "protocol": 17,
+    "numbytes": 374,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.19.100",
+    "dstip": "168.127.8.98",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.43.20.66",
+    "dstip": "10.210.2.46",
+    "srcport": 443,
+    "dstport": 47016,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.16.2.62",
+    "srcport": 42854,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 74,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.10.12",
+    "dstip": "168.127.8.52",
+    "srcport": 35093,
+    "dstport": 162,
+    "protocol": 17,
+    "numbytes": 272,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.28.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9115,
+    "dstport": 64758,
+    "protocol": 6,
+    "numbytes": 666,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.20.18",
+    "srcport": 30102,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 159,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.20.20",
+    "srcport": 58764,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 860,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.17.200.5",
+    "srcport": 1356,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 159,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.7",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 26661,
+    "protocol": 17,
+    "numbytes": 136,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.25.3",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 43108,
+    "protocol": 17,
+    "numbytes": 330,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.14.42",
+    "dstip": "10.210.2.46",
+    "srcport": 6379,
+    "dstport": 40952,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "169.254.100.1",
+    "srcport": 49246,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.5",
+    "dstip": "10.42.12.13",
+    "srcport": 48325,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1280,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.27.12",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 18955,
+    "protocol": 17,
+    "numbytes": 328,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.14.6",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 6197,
+    "protocol": 17,
+    "numbytes": 317,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.16.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9115,
+    "dstport": 26145,
+    "protocol": 6,
+    "numbytes": 668,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.201.3",
+    "srcport": 48932,
+    "dstport": 9115,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.25.24",
+    "dstip": "10.42.16.83",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 17,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.16.24",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 20263,
+    "protocol": 17,
+    "numbytes": 317,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.24.6",
+    "dstip": "168.127.8.98",
+    "srcport": 161,
+    "dstport": 55270,
+    "protocol": 17,
+    "numbytes": 454,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.8.96",
+    "dstip": "172.17.200.21",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.26.200",
+    "srcport": 41248,
+    "dstport": 9118,
+    "protocol": 6,
+    "numbytes": 369,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.4",
+    "dstip": "10.42.12.13",
+    "srcport": 52482,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1296,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.19.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9118,
+    "dstport": 60143,
+    "protocol": 6,
+    "numbytes": 662,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.26.4",
+    "srcport": 31439,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 180,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.2",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 13708,
+    "protocol": 17,
+    "numbytes": 130,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.69",
+    "dstip": "10.42.13.164",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 84,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.24.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9118,
+    "dstport": 26818,
+    "protocol": 6,
+    "numbytes": 662,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.26.4",
+    "srcport": 18637,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 175,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.1",
+    "dstip": "169.254.100.2",
+    "srcport": 49199,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.10.96",
+    "dstip": "172.17.27.4",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.12.85",
+    "dstip": "10.210.2.46",
+    "srcport": 2049,
+    "dstport": 741,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.17.25.18",
+    "srcport": 8444,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 160,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.27.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9115,
+    "dstport": 47823,
+    "protocol": 6,
+    "numbytes": 663,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.32.21.46",
+    "dstip": "10.210.2.46",
+    "srcport": 3306,
+    "dstport": 42676,
+    "protocol": 6,
+    "numbytes": 189,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.17.28.6",
+    "srcport": 62259,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 159,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.12.13",
+    "srcport": 47579,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1404,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.37",
+    "dstip": "15.200.9.186",
+    "srcport": 60824,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.28.12",
+    "srcport": 11243,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 160,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.26.6",
+    "dstip": "10.42.16.83",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 17,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.32.21.46",
+    "srcport": 42670,
+    "dstport": 3306,
+    "protocol": 6,
+    "numbytes": 92,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.16.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9115,
+    "dstport": 26145,
+    "protocol": 6,
+    "numbytes": 665,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.32.21.46",
+    "srcport": 42670,
+    "dstport": 3306,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.28.18",
+    "srcport": 50777,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 159,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.12.85",
+    "dstip": "10.210.2.46",
+    "srcport": 2049,
+    "dstport": 741,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.32.21.46",
+    "srcport": 42676,
+    "dstport": 3306,
+    "protocol": 6,
+    "numbytes": 173,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.3",
+    "dstip": "10.42.13.72",
+    "srcport": 51882,
+    "dstport": 514,
+    "protocol": 17,
+    "numbytes": 134,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.28.18",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 24386,
+    "protocol": 17,
+    "numbytes": 160,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "169.254.100.1",
+    "srcport": 49246,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.20.200",
+    "srcport": 39604,
+    "dstport": 9118,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.12.85",
+    "srcport": 741,
+    "dstport": 2049,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.12.85",
+    "dstip": "10.210.2.46",
+    "srcport": 2049,
+    "dstport": 741,
+    "protocol": 6,
+    "numbytes": 232,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.12.85",
+    "srcport": 741,
+    "dstport": 2049,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.12.85",
+    "srcport": 741,
+    "dstport": 2049,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.12.85",
+    "srcport": 741,
+    "dstport": 2049,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.19.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9116,
+    "dstport": 50479,
+    "protocol": 6,
+    "numbytes": 665,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.184",
+    "dstip": "157.240.0.27",
+    "srcport": 15406,
+    "dstport": 1715,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.30",
+    "dstip": "106.75.99.122",
+    "srcport": 15406,
+    "dstport": 9513,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.1.232",
+    "dstip": "192.168.1.22",
+    "srcport": 15406,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "71.192.41.246",
+    "dstip": "71.192.41.110",
+    "srcport": 15406,
+    "dstport": 5590,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.92",
+    "dstip": "185.243.51.210",
+    "srcport": 15406,
+    "dstport": 5459,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.254",
+    "dstip": "157.240.0.81",
+    "srcport": 15406,
+    "dstport": 7083,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.26",
+    "dstip": "104.124.101.90",
+    "srcport": 15406,
+    "dstport": 4977,
+    "protocol": 6,
+    "numbytes": 600,
+    "numpackets": 2
+  },
+  {
+    "srcip": "106.75.99.150",
+    "dstip": "106.75.99.179",
+    "srcport": 15406,
+    "dstport": 7242,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.26",
+    "dstip": "34.205.120.60",
+    "srcport": 15406,
+    "dstport": 1616,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "212.22.93.28",
+    "dstip": "212.22.93.100",
+    "srcport": 15406,
+    "dstport": 1068,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "71.192.41.158",
+    "dstip": "71.192.41.30",
+    "srcport": 15406,
+    "dstport": 3982,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.135",
+    "dstip": "106.75.99.46",
+    "srcport": 15406,
+    "dstport": 6961,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.201",
+    "dstip": "185.243.51.84",
+    "srcport": 15406,
+    "dstport": 8156,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.79",
+    "dstip": "157.240.0.117",
+    "srcport": 15406,
+    "dstport": 4772,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.151",
+    "dstip": "34.205.120.34",
+    "srcport": 15406,
+    "dstport": 297,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.135",
+    "dstip": "157.240.0.224",
+    "srcport": 15406,
+    "dstport": 3006,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.115",
+    "dstip": "104.124.101.126",
+    "srcport": 15406,
+    "dstport": 8079,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.114",
+    "dstip": "157.240.0.85",
+    "srcport": 15406,
+    "dstport": 2678,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.82",
+    "dstip": "157.240.0.159",
+    "srcport": 15406,
+    "dstport": 7369,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.201",
+    "dstip": "157.240.0.35",
+    "srcport": 15406,
+    "dstport": 6955,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.103",
+    "dstip": "185.243.51.81",
+    "srcport": 15406,
+    "dstport": 7330,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.201",
+    "dstip": "34.205.120.82",
+    "srcport": 15406,
+    "dstport": 3305,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.226",
+    "dstip": "157.240.0.208",
+    "srcport": 15406,
+    "dstport": 4130,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "71.192.41.38",
+    "dstip": "71.192.41.85",
+    "srcport": 15406,
+    "dstport": 2204,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.244",
+    "dstip": "185.243.51.200",
+    "srcport": 15406,
+    "dstport": 3095,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.1.166",
+    "dstip": "192.168.1.148",
+    "srcport": 15406,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.1.166",
+    "dstip": "192.168.1.93",
+    "srcport": 15406,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.128",
+    "dstip": "34.205.120.134",
+    "srcport": 15406,
+    "dstport": 5421,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "212.22.93.67",
+    "dstip": "212.22.93.38",
+    "srcport": 15406,
+    "dstport": 8775,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.250",
+    "dstip": "106.75.99.169",
+    "srcport": 15406,
+    "dstport": 3424,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.254",
+    "dstip": "34.205.120.21",
+    "srcport": 15406,
+    "dstport": 8914,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.176",
+    "dstip": "185.243.51.205",
+    "srcport": 15406,
+    "dstport": 8782,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.117",
+    "dstip": "185.243.51.88",
+    "srcport": 15406,
+    "dstport": 4684,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "71.192.41.160",
+    "dstip": "71.192.41.14",
+    "srcport": 15406,
+    "dstport": 8369,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.223",
+    "dstip": "34.205.120.196",
+    "srcport": 15406,
+    "dstport": 6207,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.50",
+    "dstip": "34.205.120.105",
+    "srcport": 15406,
+    "dstport": 648,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.109",
+    "dstip": "185.243.51.8",
+    "srcport": 15406,
+    "dstport": 4453,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.154",
+    "dstip": "104.124.101.13",
+    "srcport": 15406,
+    "dstport": 7574,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.78",
+    "dstip": "104.124.101.124",
+    "srcport": 15406,
+    "dstport": 4211,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.161",
+    "dstip": "104.124.101.67",
+    "srcport": 15406,
+    "dstport": 5073,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "71.192.41.165",
+    "dstip": "71.192.41.179",
+    "srcport": 15406,
+    "dstport": 2369,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.188",
+    "dstip": "185.243.51.25",
+    "srcport": 15406,
+    "dstport": 3590,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.212",
+    "dstip": "34.205.120.158",
+    "srcport": 15406,
+    "dstport": 2190,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "71.192.41.71",
+    "dstip": "71.192.41.207",
+    "srcport": 15406,
+    "dstport": 9752,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.153",
+    "dstip": "106.75.99.115",
+    "srcport": 15406,
+    "dstport": 198,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "71.192.41.223",
+    "dstip": "71.192.41.139",
+    "srcport": 15406,
+    "dstport": 4507,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.228",
+    "dstip": "106.75.99.90",
+    "srcport": 15406,
+    "dstport": 4137,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.168",
+    "dstip": "157.240.0.231",
+    "srcport": 15406,
+    "dstport": 2188,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.220",
+    "dstip": "104.124.101.59",
+    "srcport": 15406,
+    "dstport": 4594,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 56182,
+    "protocol": 6,
+    "numbytes": 266,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.140",
+    "dstip": "100.70.241.12",
+    "srcport": 38854,
+    "dstport": 5060,
+    "protocol": 6,
+    "numbytes": 303,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 57245,
+    "protocol": 6,
+    "numbytes": 508,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "69.46.109.227",
+    "srcport": 443,
+    "dstport": 32364,
+    "protocol": 6,
+    "numbytes": 73,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.173",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 57434,
+    "protocol": 6,
+    "numbytes": 216,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.125",
+    "dstip": "100.70.240.11",
+    "srcport": 60645,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 79,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.96",
+    "dstip": "100.70.240.11",
+    "srcport": 53052,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 79,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.80",
+    "dstip": "100.70.240.11",
+    "srcport": 42465,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 79,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.167",
+    "dstip": "172.24.191.105",
+    "srcport": 49685,
+    "dstport": 58592,
+    "protocol": 6,
+    "numbytes": 316,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": 49195,
+    "dstport": 17778,
+    "protocol": 6,
+    "numbytes": 156,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.209",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 59566,
+    "protocol": 6,
+    "numbytes": 131,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.63",
+    "dstip": "100.70.240.11",
+    "srcport": 39208,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 157,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.23",
+    "dstip": "172.24.157.254",
+    "srcport": 445,
+    "dstport": 55670,
+    "protocol": 6,
+    "numbytes": 466,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.84",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 59889,
+    "protocol": 6,
+    "numbytes": 259,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.208",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 59996,
+    "protocol": 6,
+    "numbytes": 400,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.173",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 60011,
+    "protocol": 6,
+    "numbytes": 209,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.80",
+    "dstip": "100.70.240.11",
+    "srcport": 42484,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 77,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.191.185",
+    "srcport": 49666,
+    "dstport": 58718,
+    "protocol": 6,
+    "numbytes": 4829,
+    "numpackets": 4
+  },
+  {
+    "srcip": "172.24.146.128",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 60427,
+    "protocol": 6,
+    "numbytes": 456,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.153.46",
+    "srcport": 53,
+    "dstport": 55983,
+    "protocol": 17,
+    "numbytes": 216,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.157.21",
+    "srcport": 445,
+    "dstport": 60171,
+    "protocol": 6,
+    "numbytes": 443,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.33",
+    "dstip": "172.24.152.13",
+    "srcport": 59405,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 129,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.120",
+    "dstip": "100.70.240.11",
+    "srcport": 33395,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 76,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.176",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 61301,
+    "protocol": 6,
+    "numbytes": 290,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.241",
+    "dstip": "99.83.155.87",
+    "srcport": 47190,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 189,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.156",
+    "dstip": "172.24.191.105",
+    "srcport": 49155,
+    "dstport": 62156,
+    "protocol": 6,
+    "numbytes": 218,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.59",
+    "dstip": "100.70.240.11",
+    "srcport": 46933,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 89,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.206",
+    "dstip": "172.24.191.105",
+    "srcport": 49687,
+    "dstport": 62504,
+    "protocol": 6,
+    "numbytes": 724,
+    "numpackets": 2
+  },
+  {
+    "srcip": "192.168.82.77",
+    "dstip": "100.70.241.12",
+    "srcport": 37261,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 89,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.83",
+    "dstip": "100.70.240.11",
+    "srcport": 45501,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 89,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.81",
+    "dstip": "172.24.191.105",
+    "srcport": 445,
+    "dstport": 64705,
+    "protocol": 6,
+    "numbytes": 6562,
+    "numpackets": 5
+  },
+  {
+    "srcip": "172.24.146.81",
+    "dstip": "172.24.191.105",
+    "srcport": 51461,
+    "dstport": 63623,
+    "protocol": 6,
+    "numbytes": 254,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.81",
+    "dstip": "67.211.127.22",
+    "srcport": 52363,
+    "dstport": 3389,
+    "protocol": 6,
+    "numbytes": 681,
+    "numpackets": 10
+  },
+  {
+    "srcip": "172.24.146.176",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 64458,
+    "protocol": 6,
+    "numbytes": 612,
+    "numpackets": 2
+  },
+  {
+    "srcip": "192.168.82.59",
+    "dstip": "100.70.240.11",
+    "srcport": 52982,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 89,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.124",
+    "dstip": "100.70.241.12",
+    "srcport": 43132,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 89,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.77",
+    "dstip": "100.70.240.10",
+    "srcport": 44410,
+    "dstport": 2445,
+    "protocol": 6,
+    "numbytes": 161,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": 64040,
+    "dstport": 17778,
+    "protocol": 6,
+    "numbytes": 922,
+    "numpackets": 2
+  },
+  {
+    "srcip": "192.168.82.124",
+    "dstip": "100.70.240.10",
+    "srcport": 33033,
+    "dstport": 2445,
+    "protocol": 6,
+    "numbytes": 161,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.59",
+    "dstip": "100.70.240.10",
+    "srcport": 54645,
+    "dstport": 2445,
+    "protocol": 6,
+    "numbytes": 161,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.155.95",
+    "srcport": 53,
+    "dstport": 64105,
+    "protocol": 17,
+    "numbytes": 238,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.99",
+    "dstip": "100.70.240.11",
+    "srcport": 60945,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 153,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.157.230",
+    "srcport": 88,
+    "dstport": 51916,
+    "protocol": 6,
+    "numbytes": 87,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.243",
+    "dstip": "99.83.155.87",
+    "srcport": 43172,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 1128,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.191.105",
+    "srcport": 49671,
+    "dstport": 50694,
+    "protocol": 6,
+    "numbytes": 200,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.241",
+    "dstip": "99.83.155.87",
+    "srcport": 60518,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 1172,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.157.206",
+    "srcport": 53,
+    "dstport": 58997,
+    "protocol": 17,
+    "numbytes": 141,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.208",
+    "dstip": "172.24.191.105",
+    "srcport": 445,
+    "dstport": 51380,
+    "protocol": 6,
+    "numbytes": 1271,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.77",
+    "dstip": "100.70.240.11",
+    "srcport": 56389,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 79,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.81",
+    "dstip": "172.24.191.105",
+    "srcport": 445,
+    "dstport": 64707,
+    "protocol": 6,
+    "numbytes": 71,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": 49155,
+    "dstport": 51016,
+    "protocol": 6,
+    "numbytes": 273,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.59",
+    "dstip": "100.70.240.10",
+    "srcport": 54681,
+    "dstport": 2445,
+    "protocol": 6,
+    "numbytes": 161,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.125",
+    "dstip": "100.70.240.11",
+    "srcport": 34052,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 85,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.241",
+    "dstip": "99.83.155.87",
+    "srcport": 53804,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 74,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.176",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 52657,
+    "protocol": 6,
+    "numbytes": 352,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": 49155,
+    "dstport": 52838,
+    "protocol": 6,
+    "numbytes": 242,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.157.232",
+    "srcport": 445,
+    "dstport": 56789,
+    "protocol": 6,
+    "numbytes": 1446,
+    "numpackets": 5
+  },
+  {
+    "srcip": "192.168.82.77",
+    "dstip": "100.70.241.12",
+    "srcport": 56452,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 80,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.80",
+    "dstip": "100.70.240.11",
+    "srcport": 53348,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 77,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.206",
+    "dstip": "172.24.191.105",
+    "srcport": 49687,
+    "dstport": 64145,
+    "protocol": 6,
+    "numbytes": 777,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "8.8.8.8",
+    "srcport": 58390,
+    "dstport": 53,
+    "protocol": 17,
+    "numbytes": 93,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.23",
+    "dstip": "172.24.157.51",
+    "srcport": 445,
+    "dstport": 54013,
+    "protocol": 6,
+    "numbytes": 2092,
+    "numpackets": 2
+  },
+  {
+    "srcip": "192.168.82.120",
+    "dstip": "100.70.240.11",
+    "srcport": 44488,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 77,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.241",
+    "dstip": "3.128.14.47",
+    "srcport": 42118,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 228,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.173",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 53956,
+    "protocol": 6,
+    "numbytes": 246,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.127",
+    "dstip": "172.24.191.105",
+    "srcport": 49165,
+    "dstport": 53869,
+    "protocol": 6,
+    "numbytes": 299,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.81",
+    "dstip": "172.24.191.105",
+    "srcport": 51461,
+    "dstport": 54122,
+    "protocol": 6,
+    "numbytes": 209,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.128",
+    "dstip": "172.24.191.105",
+    "srcport": 49164,
+    "dstport": 54068,
+    "protocol": 6,
+    "numbytes": 2532,
+    "numpackets": 4
+  },
+  {
+    "srcip": "172.24.146.209",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 53707,
+    "protocol": 6,
+    "numbytes": 243,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.157",
+    "dstip": "34.117.217.74",
+    "srcport": 64010,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 307,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.157.230",
+    "srcport": 445,
+    "dstport": 51880,
+    "protocol": 6,
+    "numbytes": 183,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.153.35",
+    "srcport": 53,
+    "dstport": 45182,
+    "protocol": 17,
+    "numbytes": 123,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 55020,
+    "protocol": 6,
+    "numbytes": 266,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.242",
+    "dstip": "99.83.155.87",
+    "srcport": 40838,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 178,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.157.30",
+    "srcport": 53,
+    "dstport": 49898,
+    "protocol": 17,
+    "numbytes": 195,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.191.139",
+    "srcport": 62051,
+    "dstport": 135,
+    "protocol": 6,
+    "numbytes": 132,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.12.85",
+    "srcport": 741,
+    "dstport": 2049,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.12.85",
+    "dstip": "10.210.2.46",
+    "srcport": 2049,
+    "dstport": 741,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.12.85",
+    "srcport": 741,
+    "dstport": 2049,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.12.85",
+    "srcport": 741,
+    "dstport": 2049,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.3",
+    "dstip": "10.42.20.20",
+    "srcport": 32893,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 964,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.12.85",
+    "srcport": 741,
+    "dstport": 2049,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.12.85",
+    "srcport": 741,
+    "dstport": 2049,
+    "protocol": 6,
+    "numbytes": 348,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.12.85",
+    "dstip": "10.210.2.46",
+    "srcport": 2049,
+    "dstport": 741,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.17.26.4",
+    "srcport": 43682,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 356,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.12.85",
+    "srcport": 741,
+    "dstport": 2049,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.111",
+    "dstip": "52.61.92.221",
+    "srcport": 53672,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.102",
+    "dstip": "146.148.27.244",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 84,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.1",
+    "dstip": "10.42.12.64",
+    "srcport": 5557,
+    "dstport": 2055,
+    "protocol": 17,
+    "numbytes": 1438,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.69",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 41366,
+    "protocol": 17,
+    "numbytes": 105,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.28.200",
+    "srcport": 48161,
+    "dstport": 8090,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.26.18",
+    "srcport": 25638,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 156,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.20.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9115,
+    "dstport": 42773,
+    "protocol": 6,
+    "numbytes": 668,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.26.4",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 2196,
+    "protocol": 17,
+    "numbytes": 373,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.28.200",
+    "dstip": "10.42.16.116",
+    "srcport": 8090,
+    "dstport": 48161,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.43.20.66",
+    "srcport": 47016,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.28.200",
+    "dstip": "10.210.2.102",
+    "srcport": 48165,
+    "dstport": 53,
+    "protocol": 17,
+    "numbytes": 81,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.17.27.6",
+    "srcport": 7348,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 171,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.7",
+    "dstip": "3.32.51.114",
+    "srcport": 58535,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 1500,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.20.20",
+    "srcport": 58764,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1336,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.14.42",
+    "dstip": "10.210.2.46",
+    "srcport": 6379,
+    "dstport": 41048,
+    "protocol": 6,
+    "numbytes": 57,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.16.4",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 33648,
+    "protocol": 17,
+    "numbytes": 346,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.17.28.18",
+    "srcport": 56645,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 159,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.10.98",
+    "dstip": "172.17.28.18",
+    "srcport": 62555,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 411,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.16.18",
+    "srcport": 55429,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 92,
+    "numpackets": 1
+  },
+  {
+    "srcip": "3.32.51.114",
+    "dstip": "172.16.2.55",
+    "srcport": 443,
+    "dstport": 49604,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "146.148.27.244",
+    "dstip": "172.16.2.12",
+    "srcport": 5222,
+    "dstport": 38930,
+    "protocol": 6,
+    "numbytes": 222,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.8.96",
+    "dstip": "172.17.20.6",
+    "srcport": 64826,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 411,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.27.12",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 17459,
+    "protocol": 17,
+    "numbytes": 329,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "169.254.100.1",
+    "srcport": 49246,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.16.4",
+    "srcport": 33648,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 178,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.26.18",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 36963,
+    "protocol": 17,
+    "numbytes": 403,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.9.24",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 38874,
+    "protocol": 17,
+    "numbytes": 389,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.16.4",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 30853,
+    "protocol": 17,
+    "numbytes": 336,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.16.4",
+    "srcport": 30853,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 176,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.16.18",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 36883,
+    "protocol": 17,
+    "numbytes": 340,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.16.18",
+    "srcport": 40550,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 159,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.16.4",
+    "srcport": 16963,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 177,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.16.4",
+    "srcport": 63180,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 178,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.1",
+    "dstip": "169.254.100.2",
+    "srcport": 49199,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.20",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 57982,
+    "protocol": 17,
+    "numbytes": 333,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.20.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9118,
+    "dstport": 39604,
+    "protocol": 6,
+    "numbytes": 663,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.5",
+    "dstip": "10.42.20.20",
+    "srcport": 52874,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1360,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.14.42",
+    "dstip": "10.210.2.46",
+    "srcport": 6379,
+    "dstport": 40966,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.27.24",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 10827,
+    "protocol": 17,
+    "numbytes": 482,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.83",
+    "dstip": "172.17.26.3",
+    "srcport": 64193,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 163,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.20.20",
+    "srcport": 58764,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1372,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.10.24",
+    "dstip": "10.42.20.4",
+    "srcport": 55902,
+    "dstport": 514,
+    "protocol": 17,
+    "numbytes": 136,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.19.200",
+    "srcport": 60143,
+    "dstport": 9118,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.28.200",
+    "srcport": 64758,
+    "dstport": 9115,
+    "protocol": 6,
+    "numbytes": 369,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "169.254.100.1",
+    "srcport": 49246,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.14.42",
+    "srcport": 40004,
+    "dstport": 6379,
+    "protocol": 6,
+    "numbytes": 179,
+    "numpackets": 1
+  },
+  {
+    "srcip": "168.127.10.96",
+    "dstip": "172.17.20.101",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 60,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.200.1",
+    "dstip": "10.42.13.164",
+    "srcport": 161,
+    "dstport": 57500,
+    "protocol": 17,
+    "numbytes": 148,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.17.200.1",
+    "srcport": 57500,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 92,
+    "numpackets": 1
+  },
+  {
+    "srcip": "146.148.27.244",
+    "dstip": "172.16.2.42",
+    "srcport": null,
+    "dstport": null,
+    "protocol": 1,
+    "numbytes": 84,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.24.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9118,
+    "dstport": 26818,
+    "protocol": 6,
+    "numbytes": 665,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.2",
+    "dstip": "10.42.12.13",
+    "srcport": 47579,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1220,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.200.2",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 5334,
+    "protocol": 17,
+    "numbytes": 335,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.4",
+    "dstip": "10.42.13.72",
+    "srcport": 45196,
+    "dstport": 514,
+    "protocol": 17,
+    "numbytes": 146,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.4",
+    "dstip": "10.42.20.4",
+    "srcport": 49180,
+    "dstport": 514,
+    "protocol": 17,
+    "numbytes": 139,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.28.200",
+    "srcport": 59897,
+    "dstport": 9118,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.24.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9118,
+    "dstport": 26818,
+    "protocol": 6,
+    "numbytes": 662,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.103",
+    "dstip": "10.42.20.53",
+    "srcport": 14383,
+    "dstport": 53,
+    "protocol": 17,
+    "numbytes": 83,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.1",
+    "dstip": "10.42.12.14",
+    "srcport": 46307,
+    "dstport": 6009,
+    "protocol": 17,
+    "numbytes": 171,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.17.200.1",
+    "srcport": 57562,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 92,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.16.2.106",
+    "dstip": "10.42.16.83",
+    "srcport": 161,
+    "dstport": 14454,
+    "protocol": 17,
+    "numbytes": 214,
+    "numpackets": 1
+  },
+  {
+    "srcip": "169.254.100.1",
+    "dstip": "169.254.100.2",
+    "srcport": 49199,
+    "dstport": 3784,
+    "protocol": 17,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.24.4",
+    "dstip": "168.127.8.96",
+    "srcport": 161,
+    "dstport": 58870,
+    "protocol": 17,
+    "numbytes": 466,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.2.46",
+    "dstip": "10.42.14.42",
+    "srcport": 41132,
+    "dstport": 6379,
+    "protocol": 6,
+    "numbytes": 111,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.210.1.5",
+    "dstip": "10.42.12.13",
+    "srcport": 48325,
+    "dstport": 8050,
+    "protocol": 17,
+    "numbytes": 1272,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.16.116",
+    "dstip": "172.17.16.200",
+    "srcport": 15655,
+    "dstport": 9115,
+    "protocol": 6,
+    "numbytes": 52,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.17.20.200",
+    "dstip": "10.42.16.116",
+    "srcport": 9118,
+    "dstport": 39604,
+    "protocol": 6,
+    "numbytes": 663,
+    "numpackets": 1
+  },
+  {
+    "srcip": "10.42.13.164",
+    "dstip": "172.17.26.18",
+    "srcport": 24657,
+    "dstport": 161,
+    "protocol": 17,
+    "numbytes": 92,
+    "numpackets": 1
+  },
+  {
+    "srcip": "212.22.93.200",
+    "dstip": "212.22.93.54",
+    "srcport": 15406,
+    "dstport": 2754,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.212",
+    "dstip": "34.205.120.141",
+    "srcport": 15406,
+    "dstport": 907,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.37",
+    "dstip": "157.240.0.124",
+    "srcport": 15406,
+    "dstport": 2236,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.218",
+    "dstip": "106.75.99.39",
+    "srcport": 15406,
+    "dstport": 532,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.104",
+    "dstip": "106.75.99.42",
+    "srcport": 15406,
+    "dstport": 645,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.89",
+    "dstip": "104.124.101.88",
+    "srcport": 15406,
+    "dstport": 3782,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.71",
+    "dstip": "104.124.101.164",
+    "srcport": 15406,
+    "dstport": 6055,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "212.22.93.251",
+    "dstip": "212.22.93.139",
+    "srcport": 15406,
+    "dstport": 2087,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.48",
+    "dstip": "185.243.51.226",
+    "srcport": 15406,
+    "dstport": 2806,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.49",
+    "dstip": "106.75.99.177",
+    "srcport": 15406,
+    "dstport": 9380,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.65",
+    "dstip": "157.240.0.11",
+    "srcport": 15406,
+    "dstport": 647,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.16",
+    "dstip": "34.205.120.75",
+    "srcport": 15406,
+    "dstport": 6464,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.66",
+    "dstip": "185.243.51.162",
+    "srcport": 15406,
+    "dstport": 3184,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "71.192.41.147",
+    "dstip": "71.192.41.118",
+    "srcport": 15406,
+    "dstport": 672,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.61",
+    "dstip": "104.124.101.148",
+    "srcport": 15406,
+    "dstport": 5837,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.120",
+    "dstip": "185.243.51.162",
+    "srcport": 15406,
+    "dstport": 6523,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.145",
+    "dstip": "34.205.120.40",
+    "srcport": 15406,
+    "dstport": 6888,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "71.192.41.132",
+    "dstip": "71.192.41.77",
+    "srcport": 15406,
+    "dstport": 240,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.1.41",
+    "dstip": "192.168.1.174",
+    "srcport": 15406,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.200",
+    "dstip": "185.243.51.128",
+    "srcport": 15406,
+    "dstport": 9387,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.1.91",
+    "dstip": "192.168.1.27",
+    "srcport": 15406,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.56",
+    "dstip": "104.124.101.135",
+    "srcport": 15406,
+    "dstport": 5186,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.191",
+    "dstip": "34.205.120.74",
+    "srcport": 15406,
+    "dstport": 2242,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.99",
+    "dstip": "185.243.51.90",
+    "srcport": 15406,
+    "dstport": 9724,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.0",
+    "dstip": "185.243.51.78",
+    "srcport": 15406,
+    "dstport": 8585,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.153",
+    "dstip": "34.205.120.227",
+    "srcport": 15406,
+    "dstport": 7954,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.9",
+    "dstip": "106.75.99.214",
+    "srcport": 15406,
+    "dstport": 4461,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.214",
+    "dstip": "157.240.0.153",
+    "srcport": 15406,
+    "dstport": 6572,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "71.192.41.168",
+    "dstip": "71.192.41.30",
+    "srcport": 15406,
+    "dstport": 1565,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "157.240.0.106",
+    "dstip": "157.240.0.119",
+    "srcport": 15406,
+    "dstport": 1986,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.1.189",
+    "dstip": "192.168.1.246",
+    "srcport": 15406,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.65",
+    "dstip": "185.243.51.139",
+    "srcport": 15406,
+    "dstport": 971,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.65",
+    "dstip": "106.75.99.4",
+    "srcport": 15406,
+    "dstport": 7810,
+    "protocol": 6,
+    "numbytes": 600,
+    "numpackets": 2
+  },
+  {
+    "srcip": "157.240.0.249",
+    "dstip": "157.240.0.6",
+    "srcport": 15406,
+    "dstport": 7106,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "212.22.93.115",
+    "dstip": "212.22.93.74",
+    "srcport": 15406,
+    "dstport": 5512,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "34.205.120.0",
+    "dstip": "34.205.120.174",
+    "srcport": 15406,
+    "dstport": 1886,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.250",
+    "dstip": "104.124.101.116",
+    "srcport": 15406,
+    "dstport": 4988,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "212.22.93.253",
+    "dstip": "212.22.93.1",
+    "srcport": 15406,
+    "dstport": 7331,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.212",
+    "dstip": "106.75.99.185",
+    "srcport": 15406,
+    "dstport": 3737,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.30",
+    "dstip": "106.75.99.115",
+    "srcport": 15406,
+    "dstport": 662,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.22",
+    "dstip": "104.124.101.189",
+    "srcport": 15406,
+    "dstport": 3274,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.153",
+    "dstip": "104.124.101.66",
+    "srcport": 15406,
+    "dstport": 819,
+    "protocol": 6,
+    "numbytes": 600,
+    "numpackets": 2
+  },
+  {
+    "srcip": "34.205.120.15",
+    "dstip": "34.205.120.243",
+    "srcport": 15406,
+    "dstport": 457,
+    "protocol": 17,
+    "numbytes": 600,
+    "numpackets": 2
+  },
+  {
+    "srcip": "192.168.1.241",
+    "dstip": "192.168.1.116",
+    "srcport": 15406,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "104.124.101.194",
+    "dstip": "104.124.101.57",
+    "srcport": 15406,
+    "dstport": 4278,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.133",
+    "dstip": "185.243.51.219",
+    "srcport": 15406,
+    "dstport": 7628,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "185.243.51.34",
+    "dstip": "185.243.51.195",
+    "srcport": 15406,
+    "dstport": 5970,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.151",
+    "dstip": "106.75.99.117",
+    "srcport": 15406,
+    "dstport": 3031,
+    "protocol": 6,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "106.75.99.41",
+    "dstip": "106.75.99.179",
+    "srcport": 15406,
+    "dstport": 1893,
+    "protocol": 17,
+    "numbytes": 300,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.99",
+    "dstip": "100.70.240.11",
+    "srcport": 36039,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 77,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.167",
+    "dstip": "172.24.191.105",
+    "srcport": 49685,
+    "dstport": 55269,
+    "protocol": 6,
+    "numbytes": 308,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": 49155,
+    "dstport": 55630,
+    "protocol": 6,
+    "numbytes": 215,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.243",
+    "dstip": "75.2.105.218",
+    "srcport": 57272,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 239,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.149",
+    "dstip": "172.24.191.105",
+    "srcport": 49698,
+    "dstport": 55967,
+    "protocol": 6,
+    "numbytes": 257,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.57",
+    "dstip": "100.70.240.11",
+    "srcport": 57915,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 79,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.81",
+    "dstip": "172.24.191.105",
+    "srcport": 56072,
+    "dstport": 54129,
+    "protocol": 6,
+    "numbytes": 71,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 56170,
+    "protocol": 6,
+    "numbytes": 254,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.49",
+    "dstip": "172.24.191.105",
+    "srcport": 49155,
+    "dstport": 64237,
+    "protocol": 6,
+    "numbytes": 369,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.156",
+    "dstip": "172.24.191.105",
+    "srcport": 49155,
+    "dstport": 56407,
+    "protocol": 6,
+    "numbytes": 1213,
+    "numpackets": 2
+  },
+  {
+    "srcip": "172.24.146.87",
+    "dstip": "172.24.191.105",
+    "srcport": 135,
+    "dstport": 56863,
+    "protocol": 6,
+    "numbytes": 272,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.157",
+    "dstip": "172.24.191.105",
+    "srcport": 49154,
+    "dstport": 56976,
+    "protocol": 6,
+    "numbytes": 214,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.81",
+    "dstip": "172.24.191.105",
+    "srcport": 51461,
+    "dstport": 56875,
+    "protocol": 6,
+    "numbytes": 223,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.23",
+    "dstip": "10.3.0.4",
+    "srcport": 445,
+    "dstport": 62073,
+    "protocol": 6,
+    "numbytes": 366,
+    "numpackets": 5
+  },
+  {
+    "srcip": "172.24.146.242",
+    "dstip": "99.83.155.87",
+    "srcport": 41802,
+    "dstport": 443,
+    "protocol": 6,
+    "numbytes": 153,
+    "numpackets": 1
+  },
+  {
+    "srcip": "192.168.82.124",
+    "dstip": "100.70.240.11",
+    "srcport": 37432,
+    "dstport": 6970,
+    "protocol": 6,
+    "numbytes": 79,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.20",
+    "dstip": "172.24.153.46",
+    "srcport": 445,
+    "dstport": 60140,
+    "protocol": 6,
+    "numbytes": 217,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.21",
+    "dstip": "172.24.153.207",
+    "srcport": 389,
+    "dstport": 55132,
+    "protocol": 6,
+    "numbytes": 971,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.208",
+    "dstip": "172.24.191.105",
+    "srcport": 445,
+    "dstport": 51380,
+    "protocol": 6,
+    "numbytes": 639,
+    "numpackets": 1
+  },
+  {
+    "srcip": "172.24.146.23",
+    "dstip": "172.24.157.51",
+    "srcport": 445,
+    "dstport": 54013,
+    "protocol": 6,
+    "numbytes": 68,
+    "numpackets": 1
+  }
+]

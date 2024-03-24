@@ -1,0 +1,2 @@
+class TrafficSampleFilter:
+    pass
