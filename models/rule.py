@@ -1,3 +1,4 @@
+from abc import abstractmethod
 from ipaddress import IPv4Address
 
 from pydantic import BaseModel
@@ -9,13 +10,45 @@ class Rule(BaseModel):
     allow: bool = True
     resource: TrafficSampleAttribute
 
+    @abstractmethod
+    def enforce(self, traffic_sample: TrafficSample) -> bool:
+        pass
+
+
+class GeneralRule(Rule):
+    values: set | None
+
+    def enforce(self, traffic_sample: TrafficSample) -> bool:
+        if self.values is None:
+            return self.allow
+        if sample_data := getattr(traffic_sample, self.resource):
+            if sample_data in self.values:
+                return self.allow
+        return not self.allow
+
 
 class IPRule(Rule):
     ips: set[IPv4Address] | None
 
+    def enforce(self, traffic_sample: TrafficSample) -> bool:
+        if self.ips is None:
+            return self.allow
+        if sample_data := getattr(traffic_sample, self.resource):
+            if sample_data in self.ips:
+                return self.allow
+        return not self.allow
+
 
 class PortRule(Rule):
     ports: set[int] | None
+
+    def enforce(self, traffic_sample: TrafficSample) -> bool:
+        if self.ports is None:
+            return self.allow
+        if sample_port := getattr(traffic_sample, self.resource):
+            if sample_port in self.ports:
+                return self.allow
+        return not self.allow
 
 
 class SubnetRule(Rule):
