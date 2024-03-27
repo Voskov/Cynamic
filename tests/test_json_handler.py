@@ -12,7 +12,7 @@ class TestJSONHandler(TestFileHandler):
     def handler(self) -> JSONHandler:
         return JSONHandler()
 
-    @pytest.fixtureai(autouse=True)
+    @pytest.fixture(autouse=True)
     def sample_data_path(self) -> Path:
         return Path(__file__).parent / ".." / "sample_data" / "sample_data.json"
 
