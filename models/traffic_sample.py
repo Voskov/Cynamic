@@ -1,7 +1,7 @@
 import ipaddress
-from typing import Optional
+from typing import Optional, Literal
 
-from pydantic import BaseModel, PositiveInt, Field
+from pydantic import BaseModel, PositiveInt
 
 
 class TrafficSample(BaseModel):
@@ -21,6 +21,5 @@ class TrafficSample(BaseModel):
     dst_subnet_class_C: Optional[ipaddress.IPv4Address] = None
 
 
-TrafficSampleAttribute = Field(
-    default=None,
-)
+fields = tuple(TrafficSample.__annotations__.keys())
+TrafficSampleAttribute = Literal[*fields]
