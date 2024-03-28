@@ -6,6 +6,7 @@ from models.traffic_sample import TrafficSample
 
 class TrafficSampleFilter:
     rules: Iterable[Rule]
+
     def __init__(self, rules: Iterable[Rule] | None = None):
         self.rules = rules
 

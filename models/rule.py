@@ -1,5 +1,6 @@
 from abc import abstractmethod
 from ipaddress import IPv4Address
+from typing import Iterable
 
 from pydantic import BaseModel
 
@@ -51,13 +52,9 @@ class PortRule(Rule):
         return not self.allow
 
 
-class SubnetRule(Rule):
-    subnet: IPv4Address | None
-
-
 class RuleFactory:
     @classmethod
-    def create_rule(cls, rule_type: str, allow: bool = True, value: str | IPv4Address | int = None | list, **kwargs):
+    def create_rule(cls, rule_type: str, allow: bool = True, value: str | IPv4Address | int = None | list):
         if not hasattr(TrafficSample, rule_type):
             raise AttributeError(f"TrafficSample has no attribute {rule_type}")
         match rule_type:
@@ -67,6 +64,14 @@ class RuleFactory:
                 return cls.create_port_rule(rule_type, allow, value)
             case "src_subnet_class_A" | "src_subnet_class_B" | "src_subnet_class_C" | "dst_subnet_class_A" | "dst_subnet_class_B" | "dst_subnet_class_C":
                 pass  # WIP
+
+    @classmethod
+    def create_general_rule(cls, rule_type: str, allow: bool, values):
+        if isinstance(values, Iterable):
+            values = set(values)
+        else:
+            values = {values}
+        return GeneralRule(allow=allow, resource=rule_type, values=values)
 
     @classmethod
     def create_ip_rule(cls,
