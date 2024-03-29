@@ -53,6 +53,7 @@ class PortRule(Rule):
 
 
 class RuleFactory:
+
     @classmethod
     def create_rule(cls, rule_type: str, allow: bool = True, value: str | IPv4Address | int = None | list):
         if not hasattr(TrafficSample, rule_type):
@@ -64,6 +65,14 @@ class RuleFactory:
                 return cls.create_port_rule(rule_type, allow, value)
             case "src_subnet_class_A" | "src_subnet_class_B" | "src_subnet_class_C" | "dst_subnet_class_A" | "dst_subnet_class_B" | "dst_subnet_class_C":
                 pass  # WIP
+
+    def parse_rule_string(self, rule_string: str):
+        '''
+        Takes a string and returns a rule object
+
+        '''
+        pass
+
 
     @classmethod
     def create_general_rule(cls, rule_type: str, allow: bool, values):

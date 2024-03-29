@@ -51,3 +51,19 @@ class TestTrafficSampleEnricher:
         assert now - parsed_processing_time < tolerance
         assert enriched_sample.src_subnet_class_A == IPv4Address('172.0.0.0')
 
+
+class TestAttributeParse:
+    def test_parse_attribute_string(self):
+        from models.traffic_sample import TrafficSample
+        sample = TrafficSample()
+        assert sample.parse_attribute_string("SRC IP") == "srcip"
+        assert sample.parse_attribute_string("DST IP") == "dstip"
+        assert sample.parse_attribute_string("SRC port") == "srcport"
+        assert sample.parse_attribute_string("DST port") == "dstport"
+        assert sample.parse_attribute_string("Protocol") == "protocol"
+        assert sample.parse_attribute_string("SRC Subnet class A") == "src_subnet_class_A"
+        assert sample.parse_attribute_string("SRC Subnet class B") == "src_subnet_class_B"
+        assert sample.parse_attribute_string("SRC Subnet class C") == "src_subnet_class_C"
+        assert sample.parse_attribute_string("DST Subnet class A") == "dst_subnet_class_A"
+        assert sample.parse_attribute_string("DST Subnet class B") == "dst_subnet_class_B"
+        assert sample.parse_attribute_string("DST Subnet class C") == "dst_subnet_class_C"
