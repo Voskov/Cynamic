@@ -57,3 +57,8 @@ class TestRules:
                                                  rule_factory: RuleFactory) -> None:
             rule = rule_factory.create_general_rule('dstport', allow=False, values=[37770, 37771, 37772])
             assert not rule.enforce(traffic_sample)
+
+    class TestLiteralRule:
+        def test_rule_srcip(self, traffic_sample: TrafficSample, rule_factory: RuleFactory) -> None:
+            rule = rule_factory.create_ip_rule('srcip', allow=True, ips={traffic_sample.srcip})
+            assert rule.enforce(traffic_sample)
