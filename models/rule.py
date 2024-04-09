@@ -63,13 +63,13 @@ class RuleFactory:
             allow_str = rule_string.split(' ')[0] == 'ALLOW'
             # TODO
             return [GeneralRule(allow=allow_str, resource=rule_string.split(' ')[1], values=None)]  # placeholder
-        allow_str, rule_literal = rule_string.split(':')
-        allow = allow_str == 'ALLOW'
-        rule_type_str, value = rule_literal.split('==')
-        rule_type_str = rule_type_str.strip()
-        value = value.strip()
+        allow_str, rule_literal = [s.strip() for s in rule_string.split(':')]
+        rule_type_str, value = [s.strip() for s in rule_literal.split('==')]
         rule_type = TrafficSample.parse_attribute_string(rule_type_str)
-        return [cls.create_general_rule(rule_type, allow, value)]
+        allow = allow_str == 'ALLOW'
+        return [cls.create_general_rule(rule_type=rule_type,
+                                        allow=allow,
+                                        values=value)]
 
     @classmethod
     def create_general_rule(cls, rule_type: str, allow: bool, values):
