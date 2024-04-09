@@ -1,5 +1,5 @@
 from abc import abstractmethod
-from ipaddress import IPv4Address
+from ipaddress import IPv4Address, AddressValueError
 from typing import Iterable
 
 from pydantic import BaseModel
@@ -26,6 +26,9 @@ class GeneralRule(Rule):
             if sample_data in self.values:
                 return self.allow
         return not self.allow
+
+    def __eq__(self, other):
+        return self.allow == other.allow and self.resource == other.resource and self.values == other.values
 
 
 class IPRule(Rule):
@@ -62,10 +65,21 @@ class RuleFactory:
             return [GeneralRule(allow=allow_str, resource=rule_string.split(' ')[1], values=None)]  # placeholder
         allow_str, rule_literal = rule_string.split(':')
         allow = allow_str == 'ALLOW'
+        rule_type_str, value = rule_literal.split('==')
+        rule_type_str = rule_type_str.strip()
+        value = value.strip()
+        rule_type = TrafficSample.parse_attribute_string(rule_type_str)
+        return [cls.create_general_rule(rule_type, allow, value)]
 
     @classmethod
     def create_general_rule(cls, rule_type: str, allow: bool, values):
-        if isinstance(values, Iterable):
+        # TODO - organize
+        if isinstance(values, str):
+            try:
+                values = {IPv4Address(values)}
+            except AddressValueError:
+                values = {values}
+        elif isinstance(values, Iterable):
             values = set(values)
         else:
             values = {values}

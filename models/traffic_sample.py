@@ -23,7 +23,7 @@ class TrafficSample(BaseModel):
     @classmethod
     def parse_attribute_string(cls, attribute_string: str) -> str:
         try:
-            return {v.alias: k for k, v in cls.__fields__.items()}[attribute_string]
+            return {v.alias.lower(): k for k, v in cls.__fields__.items()}[attribute_string.lower()]
         except KeyError:
             raise AttributeError(f"TrafficSample has no attribute {attribute_string}")
 

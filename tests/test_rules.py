@@ -59,6 +59,9 @@ class TestRules:
             assert not rule.enforce(traffic_sample)
 
     class TestLiteralRule:
-        def test_rule_srcip(self, traffic_sample: TrafficSample, rule_factory: RuleFactory) -> None:
-            rule = rule_factory.create_ip_rule('srcip', allow=True, ips={traffic_sample.srcip})
-            assert rule.enforce(traffic_sample)
+        def test_literal_rule_src_allow(self, rule_factory: RuleFactory) -> None:
+            rule_str = "ALLOW: Src Subnet Class A == 10.0.0.0"
+            expected = rule_factory.create_general_rule('src_subnet_class_A', allow=True,
+                                                        values=IPv4Address('10.0.0.0'))
+            rule = RuleFactory.create_parse_rule_string(rule_str)[0]
+            assert rule == expected
