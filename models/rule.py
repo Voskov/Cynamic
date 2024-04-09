@@ -31,32 +31,7 @@ class GeneralRule(Rule):
         return self.allow == other.allow and self.resource == other.resource and self.values == other.values
 
 
-class IPRule(Rule):
-    ips: set[IPv4Address] | None
-
-    def enforce(self, traffic_sample: TrafficSample) -> bool:
-        if self.ips is None:
-            return self.allow
-        if sample_data := getattr(traffic_sample, self.resource):
-            if sample_data in self.ips:
-                return self.allow
-        return not self.allow
-
-
-class PortRule(Rule):
-    ports: set[int] | None
-
-    def enforce(self, traffic_sample: TrafficSample) -> bool:
-        if self.ports is None:
-            return self.allow
-        if sample_port := getattr(traffic_sample, self.resource):
-            if sample_port in self.ports:
-                return self.allow
-        return not self.allow
-
-
 class RuleFactory:
-
     @classmethod
     def create_parse_rule_string(cls, rule_string: str) -> list[Rule]:
         if ':' not in rule_string:
